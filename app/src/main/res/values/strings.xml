@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageAI</string>
+    <string name="title_activity_boot_up_screen">bootUpScreen</string>
 </resources>
