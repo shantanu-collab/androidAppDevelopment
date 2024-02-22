@@ -9,7 +9,7 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity(), View.OnClickListener {
+class PhotoEditor : AppCompatActivity(), View.OnClickListener {
     lateinit var greyScaleButton: Button
     lateinit var originalImageView: ImageView
     var isFilterApplied: Boolean = false

@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity">
-            <!-- Add an intent filter if MainActivity should also be a launcher activity -->
+        </activity>
+        <activity android:name=".PhotoEditor">
         </activity>
     </application>
 
